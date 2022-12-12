@@ -1,5 +1,5 @@
 {
-  "name": "thanhde",
+  "name": "thanhdle",
   "main": "./lib/dinhthanh",
   "version": "1.3.10",
   "description": "Atom Plugin to enlarge the active pane, 12 43 12 either with a shortcut or with a super handy follow mode. Inspired by Origami for Sublime Text.",
