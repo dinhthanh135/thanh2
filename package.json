@@ -10,7 +10,7 @@
     "zoom",
     "autozoom"
   ],
-  "repository": "https://github.com/dinhthanh135/thanh",
+  "repository": "https://github.com/dinhthanh135/thanh2",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
